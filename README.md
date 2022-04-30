@@ -14,7 +14,7 @@ Welcome to [Pheon Dev](https://pheon-dev.web.app/).
 <br />
 
 
-<img align="center" alt="GIF" src="https://github.com/Pheon-Dev/Pheon-Dev/code.gif?raw=true"/>
+<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Pheon-Dev/Pheon-Dev/main/code.gif"/>
 
 <br />
 
