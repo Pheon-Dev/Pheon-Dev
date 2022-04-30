@@ -1,7 +1,5 @@
 ### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="right">
 Welcome to [Pheon Dev](https://pheon-dev.web.app/).
-</p>
 
 <br />
 <a href="https://discord.gg/5qccmFaE">
@@ -16,7 +14,7 @@ Welcome to [Pheon Dev](https://pheon-dev.web.app/).
 <br />
 
 
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="center" alt="GIF" src="https://github.com/Pheon-Dev/Pheon-Dev/code.gif?raw=true"/>
 
 <br />
 
