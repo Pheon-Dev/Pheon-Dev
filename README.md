@@ -1,4 +1,4 @@
-### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px" height="16px">
 Welcome to [Pheon Dev](https://pheon-dev.web.app/).
 
 <br />
@@ -13,13 +13,10 @@ Welcome to [Pheon Dev](https://pheon-dev.web.app/).
 
 <br />
 
-
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/Pheon-Dev/Pheon-Dev/main/code.gif"/>
-
-<br />
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pheon-Dev&show_icons=true&theme=gotham" alt="Pheon-Dev" /> </p>
 
-
+<p align="center"> 
+  <a href="https://app.daily.dev/Pheon_Dev"><img src="https://api.daily.dev/devcards/b507a4c9735c46b6804ad8a0a1d689a2.png?r=bl7" width="400" alt="Pheon Dev's Dev Card"/></a>
+</p>
 
 
