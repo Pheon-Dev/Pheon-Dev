@@ -23,10 +23,6 @@ Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pheon-Dev&show_icons=true&theme=gotham" alt="Pheon-Dev" /> </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
-</p>
-
 <span>
 
   ![](https://visitor-badge.glitch.me/badge?page_id=Pheon-Dev.Pheon-Dev)
@@ -53,3 +49,6 @@ Hey there, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
+</p>
