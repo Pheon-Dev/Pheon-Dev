@@ -4,7 +4,7 @@
 
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheon-Dev&exclude_repo=dwm,st,zsh,dotfiles,zap,lf,tmux,rofi,dmenu,vim,solutions,joshuto,vim,royal-diadems,vision-lms&theme=tokyonight" alt="Pheon-Dev" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheon-Dev&exclude_repo=dwm,st,rofi,dmenu,solutions,tmux,joshuto,dotfiles,kophee,royal-diadems,vision-lms&theme=tokyonight&size_weight=1&count_weight=0&langs_count=6&hide_progress=true" alt="Pheon-Dev" /> </p>
 
 <br />
 <p align="center">
