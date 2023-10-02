@@ -6,7 +6,3 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pheon-Dev&exclude_repo=dwm,st,rofi,dmenu,solutions,moc,tmux,joshuto,dotfiles,royal-diadems,vision-lms&theme=github_dark_dimmed&size_weight=1&count_weight=0&langs_count=6&hide_progress=true" alt="Pheon-Dev" /> </p>
 
-<br />
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ray-x/ray-x/output/github-contribution-grid-snake.svg" />
-</p>
