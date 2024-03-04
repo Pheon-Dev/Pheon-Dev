@@ -1,6 +1,6 @@
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Pheon-Dev&show_icons=true&theme=github_dark_dimmed" alt="Pheon-Dev" /> </p>
+<p align="center"> <img src="https://github-readme-stats-six-rust-42.vercel.app/api?username=Pheon-Dev&show_icons=true&theme=github_dark_dimmed" alt="Pheon-Dev" /> </p>
 
 <br />
 
